@@ -1,0 +1,33 @@
+15/12/16 15:34:26 Statique;	/home/tete/projet/Images/images_statique/img3.pbm 
+15/12/16 16:45:20 Interactif;	Position de l'avion
+15/12/16 17:20:21 Interactif;	Position de l'avion
+15/12/16 17:21:11 Interactif;	Position de l'avion
+15/12/16 17:21:16 Dynamique;	Taille de l'ecran
+15/12/16 17:21:20 Interactif;	Position de l'avion
+15/12/16 17:22:29 Interactif;	Position de l'avion
+15/12/16 17:29:44 Interactif;	Position de l'avion
+15/12/16 17:31:22 Statique;	/home/tete/projet/Images/images_statique/img4.pbm 
+15/12/16 17:31:28 Statique;	/home/tete/projet/Images/images_statique/img4.pbm 
+15/12/16 17:31:38 Dynamique;	Taille de l'ecran
+15/12/16 17:31:43 Interactif;	Position de l'avion
+15/12/16 17:33:24 Interactif;	Position de l'avion
+15/12/16 21:47:55 Interactif;	Position de l'avion
+15/12/16 21:48:17 Interactif;	Position de l'avion
+15/12/16 21:55:28 Statique;	/home/tete/projet/Images/images_statique/img3.pbm 
+15/12/16 21:56:17 Statique;	/home/tete/projet/Images/images_statique/img1.pbm 
+15/12/16 22:29:15 Dynamique;	Taille de l'ecran
+15/12/16 22:29:32 Dynamique;	Taille de l'ecran
+15/12/16 22:32:18 Dynamique;	Taille de l'ecran
+15/12/16 22:37:28 Statique;	/home/tete/projet/Images/images_statique/img3.pbm 
+15/12/16 22:37:48 Dynamique;	Taille de l'ecran
+15/12/16 22:40:39 Statique;	/home/tete/projet/Images/images_statique/img2.pbm 
+16/12/16 00:16:34 Dynamique;	Taille de l'ecran
+16/12/16 00:17:29 Dynamique;	Taille de l'ecran
+16/12/16 00:17:39 Interactif;	Position de l'avion
+16/12/16 00:17:47 Dynamique;	Taille de l'ecran
+16/12/16 00:17:59 Interactif;	Position de l'avion
+16/12/16 00:18:08 Dynamique;	Taille de l'ecran
+16/12/16 00:18:21 Statique;	/home/tete/projet/Images/images_statique/img4.pbm 
+16/12/16 00:18:29 Dynamique;	Taille de l'ecran
+16/12/16 00:18:35 Interactif;	Position de l'avion
+16/12/16 00:25:42 Statique;	/home/tete/projet/Images/images_statique/img3.pbm 
